@@ -1,0 +1,10 @@
+The Inventory Management System is a simple, command-line-based application designed to manage and track inventory items. The system allows users to add, update, delete, and view items in the inventory. The project is built using Python and SQLite, making it lightweight and easy to set up.
+
+This project is ideal for those who are learning Python or want to understand the basics of inventory management systems. The system can be expanded to include more advanced features, such as user authentication, reporting, and integration with other applications.
+
+Features
+Add Items: Add new items to the inventory with details like name, quantity, and price.
+Update Items: Modify existing items in the inventory, including their name, quantity, and price.
+Delete Items: Remove items from the inventory.
+View Items: Display all items currently in the inventory, along with their details.
+
